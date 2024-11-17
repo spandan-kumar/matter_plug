@@ -5,8 +5,8 @@
 
 #define TAG "SMART_PLUG"
 
-#define GPIO_RELAY 26  
-#define GPIO_LED   27  
+#define GPIO_RELAY 33  
+#define GPIO_LED   34  
 
 static esp_matter_endpoint_t *endpoint;
 
