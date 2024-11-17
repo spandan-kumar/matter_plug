@@ -1,8 +1,8 @@
-# Espressif ZeroCode
+# Smart Plug running on Matter Protocol
 
-This document provides instructions to use the ESP ZeroCode product.
+This document provides instructions to use the Smart Plug product.
 
-We assume that you now have a device with the flash programmed, either through the ZeroCode web portal, or by programming it yourself. If you are flashing the devices yourself from the downloaded zip, refer the [Firmware Flashing](#firmware-flashing) section first. Once done, please resume reading from this section.
+We assume that you now have a device with the flash programmed by programming it yourself. If you are flashing the devices yourself from the downloaded zip, refer the [Firmware Flashing](#firmware-flashing) section first. Once done, please resume reading from this section.
 
 > Note: This firmware has test certificates, which cannot be used for a production device. When you place an order, the ZeroCode modules will have the production certificates, as they should.
 
